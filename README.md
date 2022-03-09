@@ -2,12 +2,12 @@
 ## build
 
 ```
-docker build ./ -t churadock/php-fpm-80
+docker build ./ -t churadock/php-fpm-81
 ```
 
 ## run
 
 ```
-docker run php-fpm-80
+docker run php-fpm-81
 ```
 
